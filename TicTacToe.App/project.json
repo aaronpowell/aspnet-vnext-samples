@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "TicTacToe": ""
+    },
+    "configuration": {
+        "net45": {},
+        "k10": {}
+    }
+}
